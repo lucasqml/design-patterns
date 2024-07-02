@@ -1,0 +1,2 @@
+class OrderProcessingException(Exception):
+    pass
